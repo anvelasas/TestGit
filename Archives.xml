@@ -32,4 +32,7 @@
 <ArchInfo Date="1687544668538" Description="Version 1" Name="DemoGit" PackageName="DemoGit.spk" UserID="anvela@CARYNT" Version="b765a1d">
 <ContainObj>SBIP://METASERVER/User Folders/CARYNT-anvela/My Folder/DemoGit(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1687544749368" Description="Version 2" Name="DemoGit" PackageName="DemoGit.spk" UserID="anvela@CARYNT" Version="8f4a386">
+<ContainObj>SBIP://METASERVER/User Folders/CARYNT-anvela/My Folder/DemoGit(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
