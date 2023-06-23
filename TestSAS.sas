@@ -1,2 +1,2 @@
-proc setinit; /*version 3 test number 3*/; 
+proc setinit; /*version 4 test number 3*/; 
 quit;
