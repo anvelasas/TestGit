@@ -17,4 +17,7 @@
 <ArchInfo Date="1687495529250" Description="" Name="SampleJob" PackageName="SampleJob.spk" UserID="anvela@CARYNT" Version="f26d8c5">
 <ContainObj>SBIP://METASERVER/User Folders/CARYNT-anvela/My Folder/SampleJob(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1687495862561" Description="" Name="SampleJob" PackageName="SampleJob.spk" UserID="anvela@CARYNT" Version="439f22f">
+<ContainObj>SBIP://METASERVER/User Folders/CARYNT-anvela/My Folder/SampleJob(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
