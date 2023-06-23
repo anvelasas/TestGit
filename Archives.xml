@@ -23,4 +23,7 @@
 <ArchInfo Date="1687529359927" Description="" Name="TestGit" PackageName="TestGit.spk" UserID="anvela@CARYNT" Version="0a49961">
 <ContainObj>SBIP://METASERVER/User Folders/CARYNT-anvela/My Folder/TestGit(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1687538569486" Description="" Name="TestGit" PackageName="TestGit.spk" UserID="anvela@CARYNT" Version="d76402b">
+<ContainObj>SBIP://METASERVER/User Folders/CARYNT-anvela/My Folder/TestGit(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
